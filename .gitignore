@@ -4,3 +4,4 @@
 !tracelock-ebpf/
 !tracelock-trace/
 !.gitignore
+target/
